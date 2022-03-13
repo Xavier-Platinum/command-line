@@ -48,3 +48,9 @@ You can execute a command by pressing the Enter key after typing it.
     1. cd without Specifying a Directory
     2. The Home Directory
     3. 
+
+9. Moving Files and Directories
+    1. Working with Files and Directories
+    2. Moving a File -->> mv file_to_move destination_directory
+    3. Moving a Directory -->> mv directory_to_move destination_directory
+    4. 
