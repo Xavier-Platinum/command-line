@@ -43,3 +43,8 @@ You can execute a command by pressing the Enter key after typing it.
 
 7. The Parent Directory
     1. 
+
+8. The home directory
+    1. cd without Specifying a Directory
+    2. The Home Directory
+    3. 
