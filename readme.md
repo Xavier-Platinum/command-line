@@ -58,3 +58,9 @@ You can execute a command by pressing the Enter key after typing it.
 10. Renaming Files and Directories
     1. Renaming a File -->> mv old_file_name new_file_name
     2. 
+
+11. Copying Files and Directories
+    1. Copying a File -->> cp file_to_copy new_file_name
+    2. Copying a Directory -->> cp -r directory_to_copy new_directory_name
+    3. Error with the cp Command
+    4. 
