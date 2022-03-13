@@ -40,3 +40,6 @@ You can execute a command by pressing the Enter key after typing it.
     1. Displaying the Content of the Directory -->> ls
     2. What's displayed by "ls"
     3. 
+
+7. The Parent Directory
+    1. 
