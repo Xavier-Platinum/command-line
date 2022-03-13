@@ -32,3 +32,7 @@ You can execute a command by pressing the Enter key after typing it.
     4. The current directory
     5. Error
     6. 
+5. Checking the Current Directory
+    1. Root Directory
+    2. Checking the Current Directory
+    3. pwd
