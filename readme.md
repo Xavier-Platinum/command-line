@@ -23,4 +23,5 @@ You can execute a command by pressing the Enter key after typing it.
     1. Displaying the content of a file -->> catfilename
     2. Error of a Command
     3. Tab Completion
-    4. 
+3. creating a directory -->> mkdir directory_name
+    1. 
