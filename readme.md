@@ -64,3 +64,12 @@ You can execute a command by pressing the Enter key after typing it.
     2. Copying a Directory -->> cp -r directory_to_copy new_directory_name
     3. Error with the cp Command
     4. 
+
+12. Removing Files and Directories
+    1. Removing a File -->> rm file_to_remove
+    2. Removing a Directory -->> rm -r directory_to_remove
+    3. 
+
+13. Review
+    1. The command history
+    2. 
