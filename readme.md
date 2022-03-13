@@ -54,3 +54,7 @@ You can execute a command by pressing the Enter key after typing it.
     2. Moving a File -->> mv file_to_move destination_directory
     3. Moving a Directory -->> mv directory_to_move destination_directory
     4. 
+
+10. Renaming Files and Directories
+    1. Renaming a File -->> mv old_file_name new_file_name
+    2. 
