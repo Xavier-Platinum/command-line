@@ -25,3 +25,10 @@ You can execute a command by pressing the Enter key after typing it.
     3. Tab Completion
 3. creating a directory -->> mkdir directory_name
     1. 
+4. Moving between directories
+    1. File Structure
+    2. current directory
+    3. cd -->> as to Change Directory
+    4. The current directory
+    5. Error
+    6. 
