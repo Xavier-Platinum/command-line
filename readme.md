@@ -36,3 +36,7 @@ You can execute a command by pressing the Enter key after typing it.
     1. Root Directory
     2. Checking the Current Directory
     3. pwd
+6. Displaying a list of files 
+    1. Displaying the Content of the Directory -->> ls
+    2. What's displayed by "ls"
+    3. 
